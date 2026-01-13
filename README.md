@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Emmanuel</h1>
-<h3 align="center">3rd Year Computer Science & Engineering Student</h3>
+<h1 align="center">Hi 👋, I'm Emmanuel Jain</h1>
+<h3 align="center">3rd Year Computer Science & Engineering Student | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Emmanueljain&label=Profile%20Visits&color=000000&style=flat-square" alt="profile visits" />
 </p>
 
 ---
+
 
 ## 👨‍💻 About Me
 
