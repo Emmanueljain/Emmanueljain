@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Jain</h1>
 <h3 align="center">3rd Year Computer Science & Engineering Student | Cybersecurity Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Emmanueljain&label=Profile%20Visits&color=000000&style=flat-square" alt="profile visits" />
-</p>
 
----
 
 
 ## 👨‍💻 About Me
@@ -33,15 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanueljain&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanueljain&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
